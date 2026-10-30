@@ -1,194 +1,49 @@
-# 🦖 RAPTOR
+<a href="https://github.com/nukcrow/Raptor-Config-Tester/releases/tag/v1.0.0">
+View Release Details
+</a>
 
-### Advanced Network Security & Cybersecurity Toolkit
+<br/><br/>
 
-\<p align="center">
-&#x20; \<strong>Secure. Analyze. Detect. Defend.\</strong>
-\</p>
+<sub>Windows | Version 1.0.0 | RAR Archive</sub>
 
-\<p align="center">
-&#x20; An advanced cybersecurity platform for network security, configuration auditing, vulnerability assessment, and authorized penetration testing.
-\</p>
+</div>
 
 ---
 
-## 🚀 About RAPTOR
+## SECURITY NOTICE | نکات امنیتی
 
-**RAPTOR** is a modular network security and cybersecurity toolkit designed to help security researchers, network administrators, and ethical hackers analyze, monitor, and strengthen network infrastructure.
+### English
 
-RAPTOR aims to bring essential security auditing, network analysis, configuration management, and defensive security capabilities together in one unified environment.
+Public configurations may be unreliable, temporary, or potentially unsafe.
 
-Built with a focus on performance, modularity, reliability, and extensibility.
+Only use configurations and network resources you are authorized to access. Review downloaded files before running them.
 
-## ✨ Core Features
+### فارسی
 
-### 🌐 Network Security
+کانفیگ‌های عمومی ممکن است ناپایدار، موقتی یا ناامن باشند.
 
-- Network discovery and asset inventory
-- Network connectivity analysis
-- Port and service auditing
-- Network traffic analysis
-- Suspicious activity detection
-- Network security monitoring
-
-### 🔍 Vulnerability Assessment
-
-- Security configuration auditing
-- Vulnerability identification
-- Misconfiguration detection
-- Risk assessment and prioritization
-- Security report generation
-- CVE reference integration
-
-### ⚙️ Configuration Management
-
-- Network configuration analysis
-- Firewall configuration auditing
-- DNS security checks
-- Proxy configuration analysis
-- SSH security auditing
-- TLS/SSL configuration checks
-- Secure configuration recommendations
-
-### 🛡️ Ethical Hacking & Security Testing
-
-- Authorized penetration testing workflows
-- Security assessment tools
-- Authentication security auditing
-- Web service security checks
-- Controlled testing environments
-- Security validation and reporting
-
-### 📊 Monitoring & Reporting
-
-- Real-time monitoring (planned)
-- Security event tracking
-- Detailed audit reports
-- Risk scoring
-- Activity logs
-- Exportable security reports
-
-## 🧩 Architecture
-
-RAPTOR is designed with a modular architecture.
-
-```text
-RAPTOR/
-│
-├── core/
-│   ├── engine/
-│   ├── config/
-│   └── logger/
-│
-├── modules/
-│   ├── network/
-│   ├── scanner/
-│   ├── vulnerability/
-│   ├── firewall/
-│   ├── traffic/
-│   └── auditing/
-│
-├── security/
-│   ├── authentication/
-│   ├── validation/
-│   └── permissions/
-│
-├── reports/
-│
-├── tests/
-│
-├── docs/
-│
-├── config/
-│
-├── requirements.txt
-│
-├── LICENSE
-│
-└── README.md
-```
-
-## 🎯 Project Goals
-
-- Build a powerful modular network security platform.
-- Simplify network security auditing.
-- Identify insecure configurations.
-- Improve network visibility.
-- Support ethical hacking and authorized security testing.
-- Provide actionable security recommendations.
-- Create an extensible cybersecurity framework.
-
-## 🖥️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/RAPTOR.git
-```
-
-Navigate to the project:
-
-```bash
-cd RAPTOR
-```
-
-Install dependencies (if using Python):
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application (after implementing the entry point):
-
-```bash
-python main.py
-```
-
-## 🔐 Security & Responsible Use
-
-RAPTOR is intended for:
-
-- Authorized security assessments.
-- Personal cybersecurity laboratories.
-- Network administration.
-- Defensive security research.
-- Systems you own or have explicit permission to test.
-
-Unauthorized access, disruption, surveillance, or exploitation of third-party systems is not supported.
-
-Users are responsible for complying with applicable laws and obtaining proper authorization before conducting security tests.
-
-## 🛠️ Development Roadmap
-
-- [ ] Core security engine
-- [ ] Network discovery module
-- [ ] Port and service auditing
-- [ ] Configuration auditing
-- [ ] Firewall analysis
-- [ ] Vulnerability assessment
-- [ ] Traffic analysis
-- [ ] Security dashboard
-- [ ] Automated reporting
-- [ ] Plugin architecture
-- [ ] Advanced monitoring
-- [ ] API integration
-
-## 🤝 Contributing
-
-Contributions, feature suggestions, bug reports, and security improvements are welcome.
-
-Please open an issue or submit a pull request.
-
-## 📜 License
-
-This project will be released under an open-source license. License details will be added before the first public release.
+فقط از کانفیگ‌ها و منابعی استفاده کنید که مجوز دسترسی به آن‌ها را دارید. قبل از اجرای فایل‌های دانلودشده، آن‌ها را بررسی کنید.
 
 ---
 
-\<p align="center">
-&#x20; \<strong>🦖 RAPTOR — Think Like an Attacker. Build Like a Defender.\</strong>
-\</p>
+## DISCLAIMER | سلب مسئولیت
 
-\<p align="center">
-&#x20; Network Security | Cybersecurity | Ethical Hacking | Configuration Auditing
-\</p>
+This software is intended for educational purposes and authorized network testing.
+
+Users are responsible for complying with applicable laws and third-party service terms. Third-party software remains subject to its respective licenses.
+
+این نرم‌افزار با اهداف آموزشی و آزمایش شبکه‌های مجاز ارائه شده است. مسئولیت رعایت قوانین و شرایط سرویس‌های شخص ثالث بر عهده کاربران است.
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&duration=3500&pause=1200&color=484F58&center=true&vCenter=true&width=420&lines=COLLECT.;TEST.;FILTER.;EXPORT.;RAPTOR+CONFIG+TESTER." alt="Raptor footer"/>
+
+<br/>
+
+RAPTOR CONFIG TESTER
+
+<sub>Version 1.0.0 | Windows</sub>
+
+</div>
